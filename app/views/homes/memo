@@ -1,0 +1,6 @@
+<div class="row">
+         <li> <%= link_to new_user_session_path do %> log in <% end %></li>
+        </div>
+        <div class="row">
+        <li> <%= link_to new_user_registration_path do %> Sign up <% end %></li>
+        </div>
